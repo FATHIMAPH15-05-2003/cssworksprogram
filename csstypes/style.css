@@ -1,0 +1,38 @@
+/* selectors*/
+/*Tag name|id|class*/
+/*# id selector*/
+
+/*
+h1{
+    color:red;
+    text-align:center;
+    text-decoration: underline;
+    width: 500px;
+    border-top: 1px;
+
+}
+span{
+
+    color:green;
+    text-decoration: line-through;
+}*/
+
+#first{
+    color:red;
+
+}
+#second{
+    color:orange;
+}
+
+.text-success{
+    color:green;
+
+}
+.text-danger{
+    color:red;
+}
+
+.text-dec-underline{
+    text-decoration: underline;
+}
